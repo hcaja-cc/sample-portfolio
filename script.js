@@ -18,5 +18,5 @@ themeBtn.addEventListener('click', () => {
 const contactBtn = document.getElementById('contact-btn');
 
 contactBtn.addEventListener('click', () => {
-  alert('Thank you for visiting! Reach out to me via email@example.com.');
+  alert('Thank you for visiting! Reach out to me via hcaja@uic.edu.ph');
 });
